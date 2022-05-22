@@ -4,9 +4,13 @@
   text-align: center;
 }
 
+.dice-container{
+  display: flex;
+  justify-content: center;
+}
+
 .dice {
   text-align: center;
-  display: inline-block;
 
 }
 
